@@ -110,5 +110,5 @@ Once the content repo is created:
 - [Content Synchronizer](https://github.com/openstax/content-synchronizer) (github repo)
 - [Content Repo Migration/ Creation Process](https://openstax.atlassian.net/wiki/spaces/CE/pages/1655209985/Migrate+Seed+Books+with+Github+for+POET) (confluence documentation)
 - [Full List of Osbooks Repos](https://github.com/openstax?q=osbooks) (github search)
-- [Template Repo for New Book]() (soon - github repo)
+- [Template Repo for New Book](https://github.com/openstax/template-osbooks) (this github repo)
 - [Creating a Repository from Template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) (github documentation)
