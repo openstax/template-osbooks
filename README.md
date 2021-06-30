@@ -68,6 +68,8 @@ Once the content repo is created:
       - @ce-all, Role: Write
       - @content-managers, Role: Admin
       - @m1yag1, Role: Admin
+      - vendor, Role: Write
+      - anyone, Role: Read
 
 ## Finalize osbook repository
 
