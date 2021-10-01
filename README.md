@@ -2,6 +2,8 @@
 
 Use this repository template to create an "osbooks" repository for migration of content from CNX Archive to Github.
 
+**NOTE:** If you want to create an entirely new book (not move one from legacy) use the [/template-osbooks-new](https://github.com/openstax/template-osbooks-new/) repo
+
 [Full list of **osbooks repositories**](https://github.com/openstax?q=osbooks) via Github Search.
 
 Note: "osbook(s)" repository" and "content repository" can be used interchangably
@@ -65,11 +67,13 @@ Once the content repo is created:
    2. On top navigation tabs, click **Settings**.
    3. On left navigation, click **Manage access**.
    4. Using the Manage Acccess panel, to add:
-      - @ce-all, Role: Write
-      - @content-managers, Role: Admin
-      - @m1yag1, Role: Admin
-      - vendor, Role: Write
-      - anyone, Role: Read
+      - openstax/ce-all, Role: Write
+      - openstax/content-managers, Role: Admin
+      - openstax/ce-admins, Role: Admin
+      - {vendor account}, Role: Write (Note: find the book's vendor under column C [here](https://docs.google.com/spreadsheets/d/1dVpPsE2wTIZyoC4n8GnooqpntC2IZDTjcSdNMPycfB0/edit#gid=254689054)).
+         - Wisewire: `ww-openstax`
+         - MPS: `mps-openstax`
+         - Six Red Marbles (SRM): `srm-openstax`
 
 ## Finalize osbook repository
 
