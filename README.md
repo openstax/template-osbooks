@@ -70,6 +70,7 @@ Once the content repo is created:
       - openstax/ce-all, Role: Write
       - openstax/content-managers, Role: Admin
       - openstax/ce-admins, Role: Admin
+      - openstax/katalyst, Role: Read
       - {vendor account}, Role: Write (Note: find the book's vendor under column C [here](https://docs.google.com/spreadsheets/d/1dVpPsE2wTIZyoC4n8GnooqpntC2IZDTjcSdNMPycfB0/edit#gid=254689054)).
          - Wisewire: `ww-openstax`
          - MPS: `mps-openstax`
