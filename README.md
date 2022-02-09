@@ -1,8 +1,8 @@
+## **NOTE:** If you want to create an entirely new book (not move one from legacy) use the [/template-osbooks-new](https://github.com/openstax/template-osbooks-new/) repo
+
 # template-osbooks
 
 Use this repository template to create an "osbooks" repository for migration of content from CNX Archive to Github.
-
-**NOTE:** If you want to create an entirely new book (not move one from legacy) use the [/template-osbooks-new](https://github.com/openstax/template-osbooks-new/) repo
 
 [Full list of **osbooks repositories**](https://github.com/openstax?q=osbooks) via Github Search.
 
